@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run HelloWorld",
+      "request": "launch",
+      "mainClass": "edu.neu.csye6200.lab1.HelloWorld",
+      "console": "integratedTerminal"
+    }
+  ]
+}
