@@ -1,0 +1,10 @@
+# compiled output
+bin/
+build/
+*.class
+
+# IDE / OS
+.idea/
+*.iml
+nbproject/private/
+.DS_Store

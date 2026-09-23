@@ -7,6 +7,13 @@
       "request": "launch",
       "mainClass": "edu.neu.csye6200.lab1.HelloWorld",
       "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Lab 2 - User Profile",
+      "request": "launch",
+      "mainClass": "edu.neu.csye6200.lab2.ui.MainJFrame",
+      "console": "integratedTerminal"
     }
   ]
 }
